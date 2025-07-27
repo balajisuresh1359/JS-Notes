@@ -11,16 +11,12 @@
   
 </div>
 
----
-
 ## 🔗 [View Notes](https://balajisuresh1359.github.io/balaji-area/code/javascript-notes.html)
 
 ## 🎯 Best For
 - Quick reference during coding
 - Learning JavaScript fundamentals
 - Building personal projects
-
----
 
 <div align="center">
   
