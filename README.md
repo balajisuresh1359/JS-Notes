@@ -6,7 +6,6 @@
   A practical collection of JavaScript concepts with real examples.
   
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-  ![License](https://img.shields.io/badge/License-MIT-blue?style=flat)
   ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=balajisuresh1359.Javascript-Notes)
   
 </div>
